@@ -8,6 +8,7 @@
 
 - 点击 [Use this template](https://github.com/Editst/SYSU-HealthReport-Template/generate) 创建一个新的仓库（同时点个 Star）。
 - 在新仓库中 Settings-Secrets-Actions-New repository secret添加两个数据（“NETID”和“PASSWORD”，注意数据名称需要大写，下面的值该是怎样的大小写就是怎样的大小写）。
+- 
 | NETID | PASSWORD |
 | :-----: | :--------: |
 | NETID |   密码    |
