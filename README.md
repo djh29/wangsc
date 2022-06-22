@@ -1,6 +1,6 @@
 # SYSU Health Report Template
 
-[SYSU Health Report](https://github.com/marketplace/actions/sysu-health-report) 的配置模板
+[SYSU Health Report](https://github.com/djh29/SYSU-HealthReport) 的配置模板
 
 **已可以正常运行，仍存在较大不确定性，谨慎使用**
 
